@@ -36,3 +36,7 @@ margin: 0 15rem;
     grid-template-columns: repeat(6,1fr);
 }
   
+.category:hover:before{
+    width: 92%;
+}
+  

@@ -49,3 +49,17 @@
     right: -1.4rem;
     top: 1.4rem;
 }
+.browse-menus{
+    gap: 3rem;
+}
+.browse-menu{
+    transition: all .1s;
+    color:var(--white);
+}
+.browse-menu:hover{
+    color:var(--text-hover);
+}
+.browse-menu:hover{
+    color:var(--text-hover);
+ }
+ 

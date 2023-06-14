@@ -150,6 +150,15 @@ justify-self: center;
     margin-top: 10rem;
 
 }
+/* 
+
+- App Style
+
+*/
+
+.nav-menu{
+    display: flex;
+}
 
 /* 
 
