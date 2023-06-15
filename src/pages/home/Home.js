@@ -6,6 +6,7 @@ import Music from '../../components/music/Music'
 import Category from '../../components/category/Category'
 import PodcastCategory from '../../components/podcast-category/PodcastCategory'
 import Artist from '../../components/artist/Artist'
+import NewReleases from '../browser/new-releases/NewReleases'
 export default function Home() {
   return (
     <>
@@ -145,6 +146,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <NewReleases></NewReleases>
     </>
   )
 }
